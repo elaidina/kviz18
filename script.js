@@ -34,7 +34,7 @@ const quizData = [
   correct: "a",
 },
 {
-question: "6. Myslivec je človek , který se živí myšlením.",
+question: "6. Myslivec je člověk , který se živí myšlením.",
 a: "pravda",
 b: "lež",
 
@@ -60,7 +60,7 @@ correct: "a",
   correct: "b",
 },
 {
-question: "10. Okna slouží k osvětlení ba větrání domů.",
+question: "10. Okna slouží k osvětlení a větrání domů.",
 a: "pravda",
 b: "lež",
 
@@ -86,7 +86,7 @@ correct: "a",
   correct: "b",
 },
 {
-question: "14. Planety jsou obrovské koule z různých hornin, z ledu neo plynů.",
+question: "14. Planety jsou obrovské koule z různých hornin, z ledu nebo plynů.",
 a: "pravda",
 b: "lež",
 
